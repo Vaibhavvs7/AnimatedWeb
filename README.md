@@ -1,1 +1,2 @@
 ﻿# AnimatedWeb using HTML,CSS,JAVASCRIPT,GSAP 
+ This project involves creating engaging and dynamic web animations using HTML, CSS, and JavaScript. By integrating GSAP (GreenSock Animation Platform), a powerful JavaScript library for animations, the project aims to enhance the user experience with smooth and professional-grade animations. The focus is on making websites more interactive and visually appealing.
